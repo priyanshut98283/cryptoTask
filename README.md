@@ -1,13 +1,12 @@
 # HODLINFO-QuadBTech
-The site is a cryptocurrency trading platform comparison tool that provides key information for different platforms, helping users make informed decisions.
 
-This project is a Node.js application that fetches data from an API, stores it in a database, and displays the processed data in a tabular view. It includes features like data retrieval, database storage, data processing, and frontend rendering using EJS templates.
+The site is a cryptocurrency trading platform .
 
 ## Installation
 
 - Clone the repository
 - Install dependencies using npm
-- Configure the database connection
+- Configure the database connection using mongodb atlas connection string.
 - Start the server
 
 ## Usage
@@ -17,6 +16,7 @@ This project is a Node.js application that fetches data from an API, stores it i
 - Explore different functionalities and features
 
 ## Technologies Used
+
 - html
 - css
 - bootstrap
